@@ -1,6 +1,6 @@
 {
   "name": "gulp-json-server",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Gulp plugin to run json-server",
   "main": "index.js",
   "scripts": {
