@@ -8,7 +8,7 @@
   },
   "repository": "conortm/gulp-json-server",
   "keywords": [
-    "gulp",
+    "gulpplugin",
     "json-server",
     "JSON",
     "server",
