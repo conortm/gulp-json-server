@@ -1,0 +1,47 @@
+{
+  "name": "gulp-json-server",
+  "version": "0.0.0",
+  "description": "Gulp plugin to run json-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "conortm/gulp-json-server",
+  "keywords": [
+    "gulp",
+    "json-server",
+    "JSON",
+    "server",
+    "fake",
+    "REST",
+    "API",
+    "prototyping",
+    "mock",
+    "mocking",
+    "test",
+    "testing",
+    "rest",
+    "data",
+    "dummy",
+    "sandbox"
+  ],
+  "author": {
+    "name": "Conor McNamara",
+    "email": "conortm@gmail.com",
+    "url": "https://github.com/conortm"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/conortm/gulp-json-server/issues"
+  },
+  "homepage": "https://github.com/conortm/gulp-json-server",
+  "dependencies": {
+    "gulp-util": "^3.0.5",
+    "json-server": "^0.7.13"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "mocha": "^2.2.5",
+    "supertest": "^1.0.1"
+  }
+}
