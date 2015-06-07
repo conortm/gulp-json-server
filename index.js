@@ -8,9 +8,9 @@ module.exports = function(options) {
 		throw new gutil.PluginError('gulp-json-server', 'Missing options.');
 	}
 	var server = jsonServer.create();
-	var router = jsonServer.router(options.router);
+	var router = jsonServer.router(options.source);
 	server.use(jsonServer.defaults);
 	server.use(router);
-	server.listen(options.port);
-	gutil.log('JSON server started at', gutil.colors.cyan('http://localhost:' + options.port));
+	server.listen(options.port, options.hostname);
+	gutil.log('JSON server started at', gutil.colors.cyan('http://' + options.hostname + ':' + options.port));
 };
