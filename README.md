@@ -11,4 +11,4 @@ Gulp plugin to run [json-server](https://github.com/typicode/json-server).
 
 ## License
 
-[MIT License](./LICENSE)
+[MIT](./LICENSE) © [Conor McNamara](https://github.com/conortm)
