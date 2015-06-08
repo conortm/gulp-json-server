@@ -2,7 +2,7 @@
 
 Gulp plugin to run [json-server](https://github.com/typicode/json-server).
 
-**Note**: This is in _very_ early development and is subject to major changes until a `1.0.0` release.
+**Note**: This is in _very_ early development and is subject to major changes until a stable release.
 
 ## TODO
 
