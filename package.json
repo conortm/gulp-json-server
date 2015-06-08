@@ -39,6 +39,7 @@
     "sandbox"
   ],
   "dependencies": {
+    "extend-shallow": "^1.1.4",
     "gulp-util": "^3.0.5",
     "json-server": "^0.7.13"
   },

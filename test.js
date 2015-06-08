@@ -7,11 +7,7 @@ describe('gulp-json-server', function() {
 
 	it('should work', function(done) {
 
-		jsonServer({
-			hostname: 'localhost',
-			port: 3000,
-			source: 'fixtures/db.json'
-		});
+		jsonServer({source: 'fixtures/db.json'});
 
 		request('http://localhost:3000')
 			.get('/posts/1')
