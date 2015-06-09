@@ -4,12 +4,6 @@ Gulp plugin to run [json-server](https://github.com/typicode/json-server).
 
 **Note**: This is in _very_ early development and is subject to major changes until a stable release.
 
-## TODO
-
-- [ ] Improve implementation. Streams?
-- [ ] Better testing.
-- [ ] Add more details to README.
-
 ## License
 
 [MIT](./LICENSE) © [Conor McNamara](https://github.com/conortm)
