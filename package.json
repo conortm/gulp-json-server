@@ -1,6 +1,6 @@
 {
   "name": "gulp-json-server",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Gulp plugin to run json-server",
   "license": "MIT",
   "repository": "conortm/gulp-json-server",
